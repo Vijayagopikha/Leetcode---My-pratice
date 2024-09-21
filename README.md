@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2083-three-divisors) |
 | [2155-find-missing-observations](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2155-find-missing-observations) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2238-a-number-after-a-double-reversal) |
+| [2491-smallest-even-multiple](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Linked List
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2491-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
