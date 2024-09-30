@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0906-walking-robot-simulation](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1435-xor-queries-of-a-subarray) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0906-walking-robot-simulation](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
