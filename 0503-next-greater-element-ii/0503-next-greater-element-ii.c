@@ -47,7 +47,7 @@
 }
 */
 
-int* nextGreaterElements(int* a, int n, int* rs) {
+/*int* nextGreaterElements(int* a, int n, int* rs) {
    *rs = n;
     int *res = (int *)malloc(sizeof(int)*n);
     int a1[n*2];
@@ -65,4 +65,23 @@ int* nextGreaterElements(int* a, int n, int* rs) {
     }
     return res;
     
+}*/
+
+int* nextGreaterElements(int* a, int n, int* rs) {
+    *rs = n;
+    int *res = (int *)malloc(sizeof(int)*n);
+    int a1[n*2];
+    for(int i=0;i<n;i++){
+        a1[i+n] = a1[i] = a[i];
+    }
+    for(int i=0;i<n;i++){
+        res[i] = -1;
+        for(int j = 1; j<n;j++){
+            if(a[i]<a1[(i+j)%n]){
+                res[i]=a1[(i+j)%n];
+                break;
+            }
+        }
+    }
+    return res;
 }
