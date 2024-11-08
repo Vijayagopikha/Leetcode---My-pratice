@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0503-next-greater-element-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -180,10 +182,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 | [0908-middle-of-the-linked-list](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0908-middle-of-the-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0503-next-greater-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
