@@ -7,13 +7,21 @@ class Solution {
         }
         
         return res;*/
-        int n=a.length;
+
+        /*int n=a.length;
         Arrays.sort(a);
         for(int i=0;i<n;i++){
            if(a[i]!= i){
             return i;
            }
         }   
-        return n;    
+        return n;  */
+         int n = a.length;
+         int sum1=0;
+         int sum = (n * (n+1)) / 2;
+         for(int i : a){
+            sum1 += i;
+         }
+         return sum-sum1;
     }
 }
