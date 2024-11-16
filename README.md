@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0136-single-number) |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0155-min-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
