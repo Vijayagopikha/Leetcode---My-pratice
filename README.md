@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0496-next-greater-element-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0065-valid-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 ## Design
 |  |
