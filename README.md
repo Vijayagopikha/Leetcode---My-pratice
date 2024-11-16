@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0725-split-linked-list-in-parts) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
