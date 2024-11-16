@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0065-valid-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 ## Design
 |  |
