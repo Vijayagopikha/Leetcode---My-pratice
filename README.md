@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0135-candy) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0496-next-greater-element-i) |
