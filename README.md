@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0041-first-missing-positive) |
 | [0126-word-ladder-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0127-word-ladder) |
+| [0149-max-points-on-a-line](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0496-next-greater-element-i) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0007-reverse-integer) |
+| [0149-max-points-on-a-line](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2083-three-divisors) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0149-max-points-on-a-line) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Enumeration
 |  |
