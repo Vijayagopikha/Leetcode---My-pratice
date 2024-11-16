@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0503-next-greater-element-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0268-missing-number) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0085-maximal-rectangle) |
 | [2035-count-sub-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2411-spiral-matrix-iv) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0503-next-greater-element-ii) |
 ## Dynamic Programming
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0044-wildcard-matching) |
+| [0085-maximal-rectangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0085-maximal-rectangle) |
 ## Design
 |  |
 | ------- |
