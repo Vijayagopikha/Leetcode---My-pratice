@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0051-n-queens) |
+| [0068-text-justification](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0136-single-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0068-text-justification) |
 | [0906-walking-robot-simulation](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0068-text-justification) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Math
