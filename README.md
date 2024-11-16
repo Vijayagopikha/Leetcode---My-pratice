@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0020-valid-parentheses) |
+| [0065-valid-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0065-valid-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Math
