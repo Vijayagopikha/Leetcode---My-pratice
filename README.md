@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0127-word-ladder) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0115-distinct-subsequences) |
 ## Design
 |  |
