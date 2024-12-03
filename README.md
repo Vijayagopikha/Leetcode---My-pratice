@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0068-text-justification) |
+| [0412-fizz-buzz](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0412-fizz-buzz) |
 | [0906-walking-robot-simulation](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0132-palindrome-partitioning-ii) |
+| [0412-fizz-buzz](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0412-fizz-buzz) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Math
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2083-three-divisors) |
 | [2155-find-missing-observations](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2155-find-missing-observations) |
