@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0342-power-of-four) |
