@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0412-fizz-buzz) |
 | [0906-walking-robot-simulation](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0326-power-of-three) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2491-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
