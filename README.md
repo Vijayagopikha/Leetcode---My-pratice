@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2083-three-divisors) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2323-minimum-bit-flips-to-convert-number) |
