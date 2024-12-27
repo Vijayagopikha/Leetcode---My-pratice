@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0115-distinct-subsequences) |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0076-minimum-window-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
