@@ -24,7 +24,7 @@ int trap(int* h, int heightSize) {
         if(h[left]<h[right]){
            if(lm>h[left]){
 
-            c+= lm-h[left] ;
+            c+= lm-h[left];
             }
             else{
                 lm = h[left];
