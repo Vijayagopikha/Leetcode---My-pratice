@@ -2,7 +2,7 @@ class Solution {
     public int search(int[] nums, int target) {
       
         int idx = index(nums);
-        int ans = bsearch(0, idx,target,nums);
+        int ans = bsearch(0, idx-1,target,nums);
         if(ans!=-1){
             return ans;
         }
