@@ -22,7 +22,7 @@ class Solution {
             }
             else{
                 if(nums[0]>nums[mid]){
-                    right = mid;
+                    right = mid-1;
                 }
                 else{
                     left = mid+1;
