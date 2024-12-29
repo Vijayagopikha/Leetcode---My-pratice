@@ -4,8 +4,9 @@ class Solution {
         int left = 0;
         int right = n-1;
         int []res = new int[2];
-        res[0] = -1;
-        res[1] = -1;
+        Arrays.fill(res,-1);
+        /*res[0] = -1;
+        res[1] = -1;*/
         while(left<=right){
             int mid = (left+right)/2;
            
