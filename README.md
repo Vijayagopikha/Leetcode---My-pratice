@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2411-spiral-matrix-iv) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2665-minimum-time-to-repair-cars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2665-minimum-time-to-repair-cars) |
 ## Prefix Sum
 |  |
 | ------- |
