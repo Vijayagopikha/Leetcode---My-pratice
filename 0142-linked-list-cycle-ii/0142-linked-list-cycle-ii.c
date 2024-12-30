@@ -16,6 +16,12 @@ struct ListNode *detectCycle(struct ListNode *head) {
          }
          if(slow==fast){
             fast = head;
+            while(fast!=slow){
+                fast = fast->next;
+                slow = slow->next;
+            }
+            return slow;
+           /* fast = head;
             break;
          }
          }
@@ -26,6 +32,9 @@ struct ListNode *detectCycle(struct ListNode *head) {
     if(fast==slow){
         return slow;
     }  
+    */
     
+         }
+    }
     return false;
 }
