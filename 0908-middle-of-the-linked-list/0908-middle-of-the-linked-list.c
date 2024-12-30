@@ -6,7 +6,7 @@
  * };
  */
 struct ListNode* middleNode(struct ListNode* head) {
-    struct ListNode* current = head;
+   /* struct ListNode* current = head;
      int count = 0;
     while(current){
         current = current->next;
@@ -16,6 +16,17 @@ struct ListNode* middleNode(struct ListNode* head) {
     for(int i=0;i<mid;i++){
         head = head->next;
     }
-    return head;
-    
+    return head;*/
+
+    struct ListNode *fast , *slow;
+    fast=slow=head;
+    while(fast!=NULL){
+        fast = fast->next;
+        if(fast!=NULL){
+            slow = slow->next;
+            fast = fast->next;
+            
+        }
+    }
+    return slow;
 }
