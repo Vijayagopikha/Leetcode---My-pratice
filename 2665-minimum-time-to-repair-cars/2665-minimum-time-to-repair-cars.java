@@ -3,8 +3,12 @@ class Solution {
         long left = 1, right = 1L * A[0] * cars * cars;
         while (left < right) {
             long mid = (left + right) / 2, cur = 0;
-            for (int a : A)
+            for (int a : A){
                 cur += (long)(Math.sqrt(1.0 * mid / a));
+                if(cur>cars){
+                    break;
+                }
+            }
             if (cur < cars)
                 left = mid + 1;
             else
