@@ -35,7 +35,36 @@ class Solution {
             else{
                 l=mid+1;
             }
+            
         }
         return min;
     }
 }
+/*class Solution {
+    public int minDays(int[] bloomDay, int m, int k) {
+
+        //mail akka
+        int  n =bloomDay.length;
+        int max = bloomDay[0];
+        for(int i=0;i<n;i++){
+            if(max<bloomDay[i]){
+                max = bloomDay[i];
+            }
+        }
+        for(int days = 1; days<=max ;days++){
+            int bc = 0, nofB = 0;
+            for(int i : bloomDay){
+                if(i<=days) ++bc;
+                else bc = 0;
+                if(bc == k){
+                    nofB++;
+                    bc = 0;
+                }
+            }
+            if(nofB == m){
+                return days;
+            }
+        }
+        return -1;
+    }
+} */
