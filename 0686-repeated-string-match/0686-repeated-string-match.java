@@ -1,24 +1,20 @@
 class Solution {
     public int repeatedStringMatch(String a, String b) {
-        StringBuilder s = new StringBuilder(a);
-        int count = 1;
+        int minRepeats = (int) Math.ceil((double) b.length() / a.length());
+        StringBuilder repeated = new StringBuilder(a.repeat(minRepeats));
 
-        while (s.length() < b.length()) {
-            s.append(a);
-            count++;
+        // Check the minimum number of repeats
+        if (repeated.toString().contains(b)) {
+            return minRepeats;
         }
 
-        if (s.indexOf(b) != -1) {
-            return count;
+        // Append one more repeat and check again
+        repeated.append(a);
+        if (repeated.toString().contains(b)) {
+            return minRepeats + 1;
         }
 
-        s.append(a);
-        count++;
-
-        if (s.indexOf(b) != -1) {
-            return count;
-        }
-
+        // If not found, return -1
         return -1;
     }
 }
