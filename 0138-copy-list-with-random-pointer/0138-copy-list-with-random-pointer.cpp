@@ -54,7 +54,7 @@ public:
            th1->next = th1->next->next;
            if(th2->next != NULL){
               
-           th2->next = th1->next->next;
+           th2->next = th2->next->next;
            }
            th1 = th1->next;
            th2 = th2->next;
