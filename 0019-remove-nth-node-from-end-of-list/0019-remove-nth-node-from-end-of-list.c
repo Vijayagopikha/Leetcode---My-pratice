@@ -21,21 +21,21 @@ struct ListNode* removeNthFromEnd(struct ListNode* head, int n) {
     if(l==0 && c==1){
         return NULL;
     }
-   /* while(temp!=NULL){
+   while(temp!=NULL){
       
        if(k==l){
      
-        if(temp->next==NULL){
+       /* if(temp->next==NULL){
            temp2->next= NULL;
            return head;
         }
-        else{
+        else{*/
             if(temp2==NULL){
                 return temp->next;
             }
             temp2->next = temp->next;
             
-        }
+        //}
            
            
            //free(temp->next);
@@ -44,9 +44,9 @@ struct ListNode* removeNthFromEnd(struct ListNode* head, int n) {
        temp = temp->next;
        k++;
        
-    }*/
+    }
      //or 
-    while(l){
+    /*while(l){
         temp2 = temp;
         temp = temp->next;
         l--;
@@ -54,7 +54,7 @@ struct ListNode* removeNthFromEnd(struct ListNode* head, int n) {
     if(temp2==NULL)
     return temp->next;
 
-    temp2->next = temp->next;
+    temp2->next = temp->next;*/
     return head;
 }
 
