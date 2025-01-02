@@ -8,7 +8,7 @@
  */
 class Solution {
 public:
-    int length(ListNode *head){
+   /* int length(ListNode *head){
         ListNode *temp = head;
         int c =0;
         while(temp!=NULL){
@@ -33,5 +33,21 @@ public:
             headB = headB->next;
         }
         return headA;
+    }*/
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        ListNode *temp = headA;
+        set<ListNode*>s;
+        while(temp){
+           s.insert(temp);
+           temp = temp->next;
+        }
+        temp = headB;
+        while(temp){
+            if(s.insert(temp).second==false){
+                 return temp;
+            }
+            temp = temp->next;
+        }
+        return NULL;
     }
 };
