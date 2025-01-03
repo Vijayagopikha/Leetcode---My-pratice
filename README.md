@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1484-linked-list-in-binary-tree) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0127-word-ladder) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1484-linked-list-in-binary-tree) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1484-linked-list-in-binary-tree) |
 ## Number Theory
 |  |
