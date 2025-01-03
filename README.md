@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0504-base-7) |
+| [1070-convert-to-base-2](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1070-convert-to-base-2) |
 | [1635-number-of-good-pairs](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2083-three-divisors) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
