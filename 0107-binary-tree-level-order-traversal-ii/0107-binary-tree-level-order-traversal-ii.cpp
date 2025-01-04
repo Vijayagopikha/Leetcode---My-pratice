@@ -16,7 +16,7 @@ public:
         if(root==NULL) return res;
         queue<TreeNode*>q;
         q.push(root);
-        int level = 0;
+      //  int level = 0;
         while(!q.empty()){
            vector<int> v;
            int c = q.size();
@@ -29,7 +29,7 @@ public:
             c--;
            }
            res.push_back(v);
-           level++;
+          // level++;
         }
         reverse(res.begin(),res.end());
         return res;
