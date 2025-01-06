@@ -9,7 +9,7 @@
 void pathsum(struct TreeNode *root, int rs, int *psum){
     if(root==NULL)
       return ;
-    if(!root->left && !root->right){
+    if(root->left==NULL && root->right==NULL){
         *psum = *psum+ rs * 10+root->val;
     }
     pathsum(root->left, rs*10 + root->val, psum);
