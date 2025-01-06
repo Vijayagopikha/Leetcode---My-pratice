@@ -50,6 +50,12 @@ public:
             }
             res.push_back(v);
         }
+
+        //deallocate the arry
+        for(int i=0;i<n;i++){
+            delete[] arr[i];
+        }
+        delete[] arr;
         return res;
     }
 };
