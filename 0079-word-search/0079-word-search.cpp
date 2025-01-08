@@ -24,43 +24,42 @@ public:
 
 class Solution {
 public:
-    bool exist(std::vector<std::vector<char>>& board, std::string word) {
-        int n = board.size();
-        int m = board[0].size();
+    bool exist(vector<vector<char>>& board, string word) {
+        int m = board.size();
+        int n = board[0].size();
 
-        for (int i = 0; i < n; ++i) {
-            for (int j = 0; j < m; ++j) {
-                if (board[i][j] == word[0] && backtrack(board, word, i, j, 0)) {
+        for(int i=0;i<m;i++){
+            for(int j= 0;j<n;j++){
+                if(board[i][j] == word[0] && back(board, word, i, j, 0)){
                     return true;
                 }
             }
         }
-
         return false;
     }
 
 private:
-    bool backtrack(std::vector<std::vector<char>>& board, const std::string& word, int row, int col, int index) {
-        int n = board.size();
-        int m = board[0].size();
-
-        if (index == word.size()) {
-            return true; // All characters matched
+    bool back(vector<vector<char>>&board, string word, int row, int col,int index){
+        int m = board.size();
+        int n = board[0].size();
+        if(index == word.size()){
+            return true;
         }
-        if (row < 0 || row >= n || col < 0 || col >= m || board[row][col] != word[index]) {
+        if(row<0 || row>=m || col<0 || col>=n || board[row][col] != word[index]){
             return false;
         }
-
         char temp = board[row][col];
-        board[row][col] = '#'; // Mark the cell as visited
+        board[row][col] = '#';
 
-        // Explore all four possible directions (up, down, left, right)
-        bool found = backtrack(board, word, row + 1, col, index + 1) ||
-                     backtrack(board, word, row - 1, col, index + 1) ||
-                     backtrack(board, word, row, col + 1, index + 1) ||
-                     backtrack(board, word, row, col - 1, index + 1);
+        bool found = back(board,word,row+1, col, index+1) || 
+                     back(board, word, row-1,col,index+1) ||
+                     back(board, word, row,col+1,index+1) ||
+                     back(board, word, row,col-1,index+1);
 
-        board[row][col] = temp; // Unmark the cell
-        return found;
-    }
+        board[row][col] = temp;
+
+
+    
+    return found;
+}
 };
