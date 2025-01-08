@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0126-word-ladder-ii) |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0126-word-ladder-ii) |
 ## Sliding Window
 |  |
