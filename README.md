@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0412-fizz-buzz) |
 | [0474-ones-and-zeroes](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0474-ones-and-zeroes) |
@@ -481,9 +482,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0686-repeated-string-match) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0215-kth-largest-element-in-an-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
