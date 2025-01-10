@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0763-special-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Math
 |  |
 | ------- |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0321-create-maximum-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Sorting
 |  |
 | ------- |
