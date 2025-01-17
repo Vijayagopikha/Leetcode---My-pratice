@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0044-wildcard-matching) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0044-wildcard-matching) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0052-n-queens-ii) |
