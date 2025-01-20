@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0503-next-greater-element-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0886-score-of-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0686-repeated-string-match) |
 | [0763-special-binary-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0763-special-binary-string) |
 | [0886-score-of-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1321-get-equal-substrings-within-budget) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
