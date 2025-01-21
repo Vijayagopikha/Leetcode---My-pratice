@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1070-convert-to-base-2) |
+| [1236-n-th-tribonacci-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2083-three-divisors) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0132-palindrome-partitioning-ii) |
 | [0474-ones-and-zeroes](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1236-n-th-tribonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -532,4 +534,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
