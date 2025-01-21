@@ -26,7 +26,7 @@ int fib(int n){
 }*/
 
 //bottom-up
-int fib(int n){
+/*int fib(int n){
     int dp[31];
     memset(dp,-1,sizeof(dp));
 
@@ -39,4 +39,23 @@ int fib(int n){
        dp[i] =  dp[i-1] + dp[i-2];
     }
     return dp[n];
+}*/
+
+
+//two variables
+int fib(int n){
+    int dp[31];
+    memset(dp,-1,sizeof(dp));
+
+   if(n==0 || n == 1)
+      return n;
+
+    int p1 = 0;
+    int p2 = 1,c = 0;
+    for(int i=2;i<=n;i++){
+       c = p1+ p2;
+       p1 = p2;
+       p2 = c;
+    }
+    return p2;
 }
