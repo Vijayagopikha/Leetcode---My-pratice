@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0412-fizz-buzz) |
 | [0474-ones-and-zeroes](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0686-repeated-string-match) |
 | [0763-special-binary-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0763-special-binary-string) |
 | [0886-score-of-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0886-score-of-parentheses) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0132-palindrome-partitioning-ii) |
 | [0474-ones-and-zeroes](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1236-n-th-tribonacci-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
