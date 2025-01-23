@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0321-create-maximum-number) |
+| [0376-wiggle-subsequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0376-wiggle-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0496-next-greater-element-i) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0321-create-maximum-number) |
+| [0376-wiggle-subsequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0376-wiggle-subsequence) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Sorting
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0132-palindrome-partitioning-ii) |
+| [0376-wiggle-subsequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0376-wiggle-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1013-fibonacci-number) |
