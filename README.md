@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1635-number-of-good-pairs) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2035-count-sub-islands) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1250-longest-common-subsequence) |
 | [1517-restore-the-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 ## Design
 |  |
 | ------- |
