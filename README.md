@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0135-candy) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0132-palindrome-partitioning-ii) |
