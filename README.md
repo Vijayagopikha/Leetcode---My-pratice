@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0268-missing-number) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0695-max-area-of-island) |
 | [2035-count-sub-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2035-count-sub-islands) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0132-palindrome-partitioning-ii) |
+| [0221-maximal-square](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0474-ones-and-zeroes) |
