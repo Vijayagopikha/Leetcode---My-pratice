@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0907-koko-eating-bananas) |
+| [0967-minimum-falling-path-sum](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0967-minimum-falling-path-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1105-uncrossed-lines](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1129-longest-string-chain) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0695-max-area-of-island) |
+| [0967-minimum-falling-path-sum](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0967-minimum-falling-path-sum) |
 | [2035-count-sub-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2411-spiral-matrix-iv) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0516-longest-palindromic-subsequence) |
 | [0639-decode-ways-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0639-decode-ways-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1129-longest-string-chain) |
