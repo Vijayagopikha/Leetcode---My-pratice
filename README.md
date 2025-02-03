@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2803-modify-graph-edge-weights) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1484-linked-list-in-binary-tree) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2035-count-sub-islands) |
