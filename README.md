@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2803-modify-graph-edge-weights) |
 ## Heap (Priority Queue)
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2035-count-sub-islands) |
 ## Union Find
