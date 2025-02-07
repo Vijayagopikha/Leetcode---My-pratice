@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0871-keys-and-rooms) |
+| [0971-shortest-bridge](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1300-critical-connections-in-a-network) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0967-minimum-falling-path-sum) |
+| [0971-shortest-bridge](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0971-shortest-bridge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1105-uncrossed-lines](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1129-longest-string-chain) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0871-keys-and-rooms) |
+| [0971-shortest-bridge](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1484-linked-list-in-binary-tree) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0967-minimum-falling-path-sum) |
+| [0971-shortest-bridge](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0971-shortest-bridge) |
 | [2035-count-sub-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2411-spiral-matrix-iv) |
