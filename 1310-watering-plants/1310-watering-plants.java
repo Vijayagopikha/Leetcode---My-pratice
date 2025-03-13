@@ -15,8 +15,8 @@ class Solution {
            /* for(int j=i-1;j>=0;j--){
                 step++;
             }*/
-            step+=i;
-            step+=i;
+            step+=i+i;
+            //step+=i;
            /* for(int j=0;j<i;j++){
                
                 step++;
