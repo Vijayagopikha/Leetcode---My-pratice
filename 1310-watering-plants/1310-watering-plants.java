@@ -16,11 +16,11 @@ class Solution {
                 step++;
             }*/
             step+=i;
-           
-            for(int j=0;j<i;j++){
+            step+=i;
+           /* for(int j=0;j<i;j++){
                
                 step++;
-            }
+            }*/
            
            }
            
