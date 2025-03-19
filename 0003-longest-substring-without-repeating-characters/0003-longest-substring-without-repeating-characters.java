@@ -7,7 +7,7 @@ class Solution {
         if(n==0)
         return 0;
 
-        HashSet<Character> set = new HashSet<>();
+        Set<Character> set = new HashSet<>();
         for(int r = 0;r<n;r++){
             while(set.contains(s.charAt(r))){
                 set.remove(s.charAt(l));
