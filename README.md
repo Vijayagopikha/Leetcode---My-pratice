@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1310-watering-plants) |
 | [1325-path-with-maximum-probability](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1635-number-of-good-pairs) |
@@ -444,12 +445,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2478-longest-nice-subarray) |
 ## Counting
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1129-longest-string-chain) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Recursion
