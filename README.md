@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2155-find-missing-observations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2411-spiral-matrix-iv](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2411-spiral-matrix-iv) |
+| [2478-longest-nice-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2665-minimum-time-to-repair-cars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2478-longest-nice-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2478-longest-nice-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0076-minimum-window-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1321-get-equal-substrings-within-budget) |
+| [2478-longest-nice-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2478-longest-nice-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
