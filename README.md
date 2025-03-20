@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1250-longest-common-subsequence) |
+| [1252-break-a-palindrome](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1252-break-a-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1321-get-equal-substrings-within-budget) |
 | [1517-restore-the-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1517-restore-the-array) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0321-create-maximum-number) |
 | [0376-wiggle-subsequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0376-wiggle-subsequence) |
+| [1252-break-a-palindrome](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1252-break-a-palindrome) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1829-maximum-units-on-a-truck) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
