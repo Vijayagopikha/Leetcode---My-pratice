@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1306-minimum-absolute-difference) |
 | [1310-watering-plants](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1310-watering-plants) |
 | [1325-path-with-maximum-probability](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1325-path-with-maximum-probability) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1129-longest-string-chain) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1635-number-of-good-pairs) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-break-a-palindrome](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1252-break-a-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1321-get-equal-substrings-within-budget) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1517-restore-the-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1129-longest-string-chain) |
 | [1306-minimum-absolute-difference](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1306-minimum-absolute-difference) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
