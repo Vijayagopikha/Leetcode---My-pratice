@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1492-time-needed-to-inform-all-employees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2035-count-sub-islands) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1484-linked-list-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
