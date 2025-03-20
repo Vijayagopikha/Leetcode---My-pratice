@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2226-rings-and-rods) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2226-rings-and-rods) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2687-lexicographically-smallest-beautiful-string) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Geometry
 |  |
