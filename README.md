@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2035-count-sub-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2035-count-sub-islands) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Array
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2035-count-sub-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1517-restore-the-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2083-three-divisors](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2083-three-divisors) |
 ## Greedy
 |  |
