@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2411-spiral-matrix-iv](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2411-spiral-matrix-iv) |
 | [2478-longest-nice-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2478-longest-nice-subarray) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2665-minimum-time-to-repair-cars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1321-get-equal-substrings-within-budget) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## String
 |  |
 | ------- |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1829-maximum-units-on-a-truck) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Sorting
 |  |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1829-maximum-units-on-a-truck) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Recursion
 |  |
 | ------- |
