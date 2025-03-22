@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0412-fizz-buzz) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0221-maximal-square) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0474-ones-and-zeroes) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0126-word-ladder-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0813-all-paths-from-source-to-target) |
 ## Sliding Window
 |  |
