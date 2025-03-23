@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0200-number-of-islands) |
+| [0386-lexicographical-numbers](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0695-max-area-of-island) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0386-lexicographical-numbers) |
 ## Topological Sort
 |  |
 | ------- |
