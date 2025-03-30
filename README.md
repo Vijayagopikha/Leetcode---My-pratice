@@ -692,4 +692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1300-critical-connections-in-a-network) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
