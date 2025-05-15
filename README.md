@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0221-maximal-square) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0695-max-area-of-island) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0179-largest-number) |
+| [0212-word-search-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0394-decode-string) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0212-word-search-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0813-all-paths-from-source-to-target) |
 ## Sliding Window
@@ -709,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0386-lexicographical-numbers) |
 ## Topological Sort
 |  |
