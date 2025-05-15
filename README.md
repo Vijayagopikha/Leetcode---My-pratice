@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2155-find-missing-observations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2411-spiral-matrix-iv](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2411-spiral-matrix-iv) |
 | [2478-longest-nice-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2478-longest-nice-subarray) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2665-minimum-time-to-repair-cars) |
 ## Prefix Sum
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1321-get-equal-substrings-within-budget) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## String
 |  |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0076-minimum-window-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1321-get-equal-substrings-within-budget) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2478-longest-nice-subarray](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2478-longest-nice-subarray) |
 ## Divide and Conquer
 |  |
