@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0394-decode-string) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0412-fizz-buzz) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0263-ugly-number) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0326-power-of-three) |
