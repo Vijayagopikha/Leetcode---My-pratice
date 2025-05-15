@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0268-missing-number) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0342-power-of-four) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0403-frog-jump) |
