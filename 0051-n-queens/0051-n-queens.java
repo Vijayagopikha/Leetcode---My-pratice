@@ -1,69 +1,39 @@
 class Solution {
-    public List<List<String>> solveNQueens(int n) {
-        List<List<String>> results = new ArrayList<>();
-        if (n == 1) {
-            List<String> solution = new ArrayList<>();
-            solution.add("Q");
-            results.add(solution);
-            return results;
-        }
-        if (n == 2 || n == 3) {
-            return results;
-        }
-
-        int[] solution = new int[n];
-        for (int i = 0; i < n; i++) {
-            solution[i] = -1;
-        }
-
-        solveNQueensRec(n, solution, 0, results);
-        return results;
-    }
-
-    // Recursive worker function
-    private void solveNQueensRec(int n, int[] solution, int row, List<List<String>> results) {
-        if (row == n) {
-            List<String> solutionStr = constructSolutionString(solution);
-            results.add(solutionStr);
+    private void solve(int col, int n, char board[][], int leftRow[], int upperDiagonal[], int lowerDiagonal[], List<List<String>> result){
+        if(col == n){
+            List<String> list = new ArrayList<>();
+            for(int i=0; i<n; i++){
+                list.add(new String(board[i]));
+            }
+            result.add(list);
             return;
         }
+        for(int row=0; row<n; row++){
+            if(leftRow[row] == 0 && upperDiagonal[row + col] == 0 && lowerDiagonal[n-1 + col-row] == 0){
+                board[row][col] = 'Q';
+                leftRow[row] = 1;
+                upperDiagonal[row + col] = 1;
+                lowerDiagonal[n-1 + col-row] = 1;
 
-        for (int i = 0; i < n; i++) {
-            if (isValidMove(row, i, solution)) {
-                solution[row] = i;
-                solveNQueensRec(n, solution, row + 1, results);
-                solution[row] = -1; // Backtrack
+                solve(col+1, n, board, leftRow, upperDiagonal, lowerDiagonal, result);
+
+                board[row][col] = '.';
+                leftRow[row] = 0;
+                upperDiagonal[row + col] = 0;
+                lowerDiagonal[n-1 + col-row] = 0;                
             }
         }
     }
-
-    // This method determines if a queen can be placed at
-    // proposedRow, proposedCol with the current solution
-    private boolean isValidMove(int proposedRow, int proposedCol, int[] solution) {
-        for (int i = 0; i < proposedRow; i++) {
-            int oldRow = i;
-            int oldCol = solution[i];
-            int diagonalOffset = proposedRow - oldRow;
-
-            if (oldCol == proposedCol || oldCol == proposedCol - diagonalOffset
-                    || oldCol == proposedCol + diagonalOffset) {
-                return false;
-            }
+    public List<List<String>> solveNQueens(int n) {
+        List<List<String>> result = new ArrayList<>();
+        char board[][] = new char[n][n];
+        for(int i=0; i<n; i++){
+            Arrays.fill(board[i], '.');
         }
-        return true;
-    }
-
-    // Constructs the board solution as a list of strings
-    private List<String> constructSolutionString(int[] solution) {
-        List<String> returnArr = new ArrayList<>();
-        for (int i = 0; i < solution.length; i++) {
-            char[] row = new char[solution.length];
-            for (int j = 0; j < solution.length; j++) {
-                row[j] = '.';
-            }
-            row[solution[i]] = 'Q';
-            returnArr.add(new String(row));
-        }
-        return returnArr;
+        int leftRow[] = new int[n];
+        int upperDiagonal[] = new int[2 * n - 1];
+        int lowerDiagonal[] = new int[2 * n - 1];
+        solve(0, n, board, leftRow, upperDiagonal, lowerDiagonal, result);
+        return result;
     }
 }
