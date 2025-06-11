@@ -1,28 +1,37 @@
 class Solution {
-    public int totalNQueens(int n) {
-        return this.helper(new boolean[n * 2], new boolean[n * 2], new boolean[n], 0, n);
-    }
+    public int solve(int col, int n, char board[][], int left[], int upper[], int lower[]){
 
-    private int helper(final boolean[] diag1, final boolean[] diag2, final boolean[] col, final int row, final int n) {
-        if(row == n)
-            return 1;
+        if(col==n){
+           return 1;
+        }
+        int tol = 0;
+        for(int r = 0;r<n;r++){
+            if(left[r] == 0 && upper[r+col] ==0 && lower[n-1 + col-r] ==0){
+                board[r][col] = 'Q';
+                left[r] = 1;
+                upper[r+col ] = 1;
+                lower[n-1 + col-r] = 1;
 
-        int result = 0;
+                tol += solve(col+1, n, board, left, upper, lower);
 
-        for(int i = 0; i < n; ++i) {
-            if(!diag1[row + i] && !diag2[n - row + i] && !col[i]) {
-                diag1[row + i] = true;
-                diag2[n - row + i] = true;
-                col[i] = true;
-
-                result += this.helper(diag1, diag2, col, row + 1, n);
-
-                diag1[row + i] = false;
-                diag2[n - row + i] = false;
-                col[i] = false;
+                board[r][col] = '.';
+                left[r] = 0;
+                upper[r+col ] = 0;
+                lower[n-1 + col-r] = 0;
             }
         }
-
-        return result;
+        return tol;
+    }
+    public int totalNQueens(int n) {
+        
+        char board[][] = new char[n][n];
+        for(int i=0;i<n;i++){
+            Arrays.fill(board[i], '.');
+        }
+        int left[] = new int[n];
+        int upper[] = new int[2*n-1];
+        int lower[] = new int [2*n-1];
+        return solve(0, n, board, left, upper, lower);
+        
     }
 }
