@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0907-koko-eating-bananas) |
+| [0921-spiral-matrix-iii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0971-shortest-bridge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0695-max-area-of-island) |
+| [0921-spiral-matrix-iii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1073-number-of-enclaves) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0412-fizz-buzz) |
 | [0906-walking-robot-simulation](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0906-walking-robot-simulation) |
+| [0921-spiral-matrix-iii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0921-spiral-matrix-iii) |
 | [1310-watering-plants](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/1310-watering-plants) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2076-sum-of-digits-of-string-after-convert) |
