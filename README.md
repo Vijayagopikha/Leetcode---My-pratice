@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0289-game-of-life) |
 | [0321-create-maximum-number](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0321-create-maximum-number) |
 | [0376-wiggle-subsequence](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0403-frog-jump) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0289-game-of-life) |
 | [0695-max-area-of-island](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0695-max-area-of-island) |
 | [0921-spiral-matrix-iii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0967-minimum-falling-path-sum) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0412-fizz-buzz) |
 | [0906-walking-robot-simulation](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/0921-spiral-matrix-iii) |
