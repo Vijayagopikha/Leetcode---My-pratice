@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/3830-find-closest-person) |
 ## Linked List
 |  |
 | ------- |
