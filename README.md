@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2665-minimum-time-to-repair-cars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3838-weighted-word-mapping](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/3838-weighted-word-mapping) |
 ## Graph
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3838-weighted-word-mapping](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2226-rings-and-rods) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3838-weighted-word-mapping](https://github.com/Vijayagopikha/Leetcode---My-pratice/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
